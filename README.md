@@ -50,9 +50,7 @@ As a phalsh user
 So that no one can send a phlash on my behalf
 I want to be able to logout
 ```
-```
 [All user stories here...](https://github.com/chriscoates/phlash/blob/master/user_stories.md)
-```
 
 ## To Do
 - Manage list of Phollowers
