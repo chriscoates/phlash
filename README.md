@@ -52,7 +52,7 @@ I want to be able to logout
 ```
 [All user stories here...](https://github.com/chriscoates/phlash/blob/master/user_stories.md)
 
-## To Do
+## Further features to integrate
 - Manage list of Phollowers
 - Create videos
 - Geolocalise phlashers and show them in a map
